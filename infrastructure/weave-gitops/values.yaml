@@ -1,0 +1,5 @@
+WEAVE_GITOPS_FEATURE_TELEMETRY: "true"
+adminUser:
+  create: true
+  passwordHash: $2b$12$Hc0FZCMy8KLRajb8LWYFqOvsMZcvLzlSOumSLwK4xud1r3QheQqlu
+  username: admin
